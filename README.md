@@ -9,13 +9,12 @@ In this project, the code will accept any user-supplied image as input. If a dog
   
  ## Result
  predict_breed 'Data-Scientist-Nanodegree/Test-Image/dog2.jpg'
-Hi, This is a dog!   
+ Hi, This is a dog!   
 
 And I predict the Breed of this dog is a ages/train/076.Golden_retriever       
 
 ![dog2](https://user-images.githubusercontent.com/31853896/81958806-1d265400-962c-11ea-82a4-526d09c9fe66.jpg)
 
-predict_breed 'Data-Scientist-Nanodegree/Test-Image/23.jpg'
 
 ## Summary
 There are several state of the arts model we tried. First I gave to shot to OpenCv but it fails when we don't have forward facing faces. Then I tried convolutional Neural Network from scratch with above parameters.It gave an accuracy of 9% which is too low. At last i tried two state of the arts pre-trained model VGG16 and Xception. VGG16 gave an accuracy of 43% where as VGG19 gave an accuracy of 70.9% of validation dataset with 20 epochs and about 30 sec of training on GPU.
