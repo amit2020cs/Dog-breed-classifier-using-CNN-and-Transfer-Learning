@@ -38,3 +38,5 @@ And I predict the Breed of this dog is a ages/train/034.Boxer
  Hi, This's a human!
 If you were a dog, I predict that would be a ... ages/train/044.Cane_corso!!
 ![191_n](https://user-images.githubusercontent.com/31853896/81959742-91152c00-962d-11ea-8bcd-473a519d2f6f.jpg)
+## Summary
+There are several state of the arts model we tried. First I gave to shot to OpenCv but it fails when we don't have forward facing faces. Then I tried convolutional Neural Network from scratch with above parameters.It gave an accuracy of 9% which is too low. At last i tried two state of the arts pre-trained model VGG16 and Xception. VGG16 gave an accuracy of 43% where as VGG19 gave an accuracy of 70.9% of validation dataset with 20 epochs and about 30 sec of training on GPU.
