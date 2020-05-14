@@ -8,10 +8,8 @@ In this project, the code will accept any user-supplied image as input. If a dog
 ![Screenshot19](https://user-images.githubusercontent.com/31853896/81976391-173d6c80-9646-11ea-8152-86abce25dd5c.png)
   
  ## Result
- predict_breed 'Data-Scientist-Nanodegree/Test-Image/dog2.jpg'
  Hi, This is a dog!   
-
-And I predict the Breed of this dog is a ages/train/076.Golden_retriever       
+ And I predict the Breed of this dog is a ages/train/076.Golden_retriever       
 
 ![dog2](https://user-images.githubusercontent.com/31853896/81958806-1d265400-962c-11ea-82a4-526d09c9fe66.jpg)
 
