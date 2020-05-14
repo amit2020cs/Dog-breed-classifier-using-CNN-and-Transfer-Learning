@@ -6,9 +6,7 @@ In this project, the code will accept any user-supplied image as input. If a dog
 * Download the [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 ##  Create a CNN to Classify Dog Breeds(Building a model on my own)
 ![Screenshot19](https://user-images.githubusercontent.com/31853896/81976391-173d6c80-9646-11ea-8152-86abce25dd5c.png)
-
-## Test The Algorithm
-Test your algorithm at least six images on your computer.  Feel free to use any images you like.  Use at least two human and two dog images.  
+  
  ## Result
  predict_breed 'Data-Scientist-Nanodegree/Test-Image/dog2.jpg'
 Hi, This is a dog!   
