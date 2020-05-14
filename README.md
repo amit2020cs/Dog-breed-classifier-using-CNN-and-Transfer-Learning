@@ -4,7 +4,7 @@ In this project, the code will accept any user-supplied image as input. If a dog
 ## Import Datasets
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
 * Download the [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
-##  Create a CNN to Classify Dog Breeds
+##  Create a CNN to Classify Dog Breeds(Building a model on my own)
 ![Screenshot19](https://user-images.githubusercontent.com/31853896/81976391-173d6c80-9646-11ea-8152-86abce25dd5c.png)
 
 ## Test The Algorithm
